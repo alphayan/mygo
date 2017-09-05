@@ -1,0 +1,5 @@
+package: mygo
+import:
+- package: github.com/labstack/echo
+  version: master
+- package: github.com/echo-contrib/echopprof
